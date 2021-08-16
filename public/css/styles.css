@@ -164,7 +164,7 @@ article div.main-article {
     padding: 15px;
 }
 
-@media (min-width: 361px) {
+@media (min-width: 500px) {
     main section article .description {
         display: block;
     }
